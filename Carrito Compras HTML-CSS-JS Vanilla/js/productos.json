@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Sándwich Clásico",
+        "desc": "Sándwich de jamón crudo español, queso crema y manteca",
+        "img":"/images/1_clasico.PNG",
+        "precio": 830
+    },
+    {
+        "id": 2,
+        "nombre": "Sándwich Francisco",
+        "desc": "Sándwich de salmón ahumado, tomate, palta y mayonesa de salmón",
+        "img":"/images/2_Francis.PNG",
+        "precio": 1680
+    },
+    {
+    "id": 3,
+    "nombre": "Sándwich de Pollo y Pesto",
+    "desc": "Sándwich de pollo, tomate, pesto italiano, mayonesa en baguetín",
+    "img":"/images/3_pollo_pesto.PNG",
+    "precio": 1053
+},
+{
+    "id": 4,
+    "nombre": "Sándwich Pollo y Bacon",
+    "desc": "Sándwichcaliente de pollo, panceta crocante y cebolla caramelizada",
+    "img":"/images/4_pollo_bacon.PNG",
+    "precio": 1500
+},
+{
+    "id": 5,
+    "nombre": "Sándwich de Langostinos",
+    "desc": "Sándwich de langostinos, rúcula, mayonesa de palta en baguetín",
+    "img":"/images/5_langostinos.PNG",
+    "precio": 820
+},
+{
+    "id": 6,
+    "nombre": "Sándwich Pavita Caprese",
+    "desc": "Sándwich de fiambre de pavita, tomates secos, muzarella y aceitunas",
+    "img":"/images/6_pavita.PNG",
+    "precio": 1350
+},
+{
+    "id": 7,
+    "nombre": "Sándwich Lomo Ahumado",
+    "desc": "Sándwich de lomo ahumado, rúcula, queso port salut y honey mustard",
+    "img":"/images/7_lomo.PNG",
+    "precio": 10000
+},
+{
+    "id": 8,
+    "nombre": "Sándwich Cesar",
+    "desc": "Sándwich de pollo, lechuga, parmesano, salsa césar en baguetín",
+    "img":"/images/8_Cesar.PNG",
+    "precio": 980
+},
+{
+    "id": 9,
+    "nombre": "Sándwich Serranito",
+    "desc": "Sándwich de jamón crudo español, queso brie y rúcula en baguetín",
+    "img":"/images/9_serranito.PNG",
+    "precio": 1830
+},
+{
+    "id": 10,
+    "nombre": "Sándwich de Pastrami",
+    "desc": "Sándwich de pastrón, cebolla caramelizada, pepinos y mostaza",
+    "img":"/images/10_pastrami.PNG",
+    "precio": 1740
+}
+]
